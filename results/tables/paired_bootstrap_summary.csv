@@ -1,0 +1,2 @@
+test_ap_with_pagevalues,test_ap_without_pagevalues,test_ap_gap_with_minus_without,paired_bootstrap_ci_lower_95,paired_bootstrap_ci_upper_95,bootstrap_repetitions_requested,bootstrap_repetitions_used,bootstrap_seed
+0.6231286401776244,0.32611436985215464,0.29701427032546973,0.23898498769442572,0.3547653662717432,2000,2000,42

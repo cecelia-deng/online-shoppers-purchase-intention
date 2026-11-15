@@ -1,0 +1,16 @@
+statistic,value
+sessions,12330.0
+input_features,17.0
+purchases,1908.0
+purchase_rate,0.15474452554744525
+missing_values,0.0
+duplicate_rows_beyond_first,125.0
+rows_in_duplicate_groups,201.0
+purchases_among_duplicate_group_rows,0.0
+duplicate_group_rows_with_1_or_2_pages,201.0
+duplicate_group_rows_with_zero_total_duration,201.0
+train_sessions,9864.0
+train_purchase_rate,0.15470397404703973
+test_sessions,2466.0
+test_purchase_rate,0.1549067315490673
+test_input_rows_matching_train,29.0

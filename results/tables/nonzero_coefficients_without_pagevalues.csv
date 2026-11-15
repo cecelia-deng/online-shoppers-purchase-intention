@@ -1,0 +1,24 @@
+model,encoded_feature,coefficient,absolute_coefficient
+without PageValues,numeric__ExitRates,-1.4149158159818194,1.4149158159818194
+without PageValues,categorical__Month_Nov,0.5085183894507437,0.5085183894507437
+without PageValues,categorical__TrafficType_3,-0.41750901959194414,0.41750901959194414
+without PageValues,categorical__Month_Mar,-0.3555853731910831,0.3555853731910831
+without PageValues,categorical__OperatingSystems_3,-0.33661654181922046,0.33661654181922046
+without PageValues,categorical__TrafficType_13,-0.2980397391984511,0.2980397391984511
+without PageValues,categorical__TrafficType_1,-0.2846564640497669,0.2846564640497669
+without PageValues,categorical__VisitorType_Returning_Visitor,-0.22556168116705586,0.22556168116705586
+without PageValues,numeric__SpecialDay,-0.17069387319521676,0.17069387319521676
+without PageValues,categorical__OperatingSystems_1,-0.15774201296707274,0.15774201296707274
+without PageValues,categorical__Month_Dec,-0.1473158719065083,0.1473158719065083
+without PageValues,categorical__Month_May,-0.1079354534161122,0.1079354534161122
+without PageValues,numeric__ProductRelated_Duration,0.09815695270152794,0.09815695270152794
+without PageValues,categorical__Browser_2,-0.09174657403410798,0.09174657403410798
+without PageValues,categorical__TrafficType_8,0.08948879076593177,0.08948879076593177
+without PageValues,categorical__Month_Oct,0.07901862351275635,0.07901862351275635
+without PageValues,numeric__Administrative,0.061954913713694444,0.061954913713694444
+without PageValues,numeric__Informational,0.051268235501653076,0.051268235501653076
+without PageValues,numeric__Weekend,0.0325146514006598,0.0325146514006598
+without PageValues,categorical__OperatingSystems_2,0.025699710015201622,0.025699710015201622
+without PageValues,categorical__Region_2,0.02493001506645487,0.02493001506645487
+without PageValues,numeric__Administrative_Duration,0.007386715278908438,0.007386715278908438
+without PageValues,categorical__Month_Sep,0.004718406559938653,0.004718406559938653

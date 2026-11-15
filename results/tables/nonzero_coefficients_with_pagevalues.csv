@@ -1,0 +1,5 @@
+model,encoded_feature,coefficient,absolute_coefficient
+with PageValues,numeric__PageValues,1.0457590490069528,1.0457590490069528
+with PageValues,categorical__VisitorType_Returning_Visitor,-0.09388644678525106,0.09388644678525106
+with PageValues,numeric__ExitRates,-0.09357278593554112,0.09357278593554112
+with PageValues,numeric__ProductRelated,0.086457578909412,0.086457578909412
